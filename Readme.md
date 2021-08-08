@@ -1,4 +1,4 @@
-### Hi this repo contains my assignments for the AI LAB
+### Hi this repo contains my assignments for the AI Session
 
 1. Regression:
    1. Linear Regression
