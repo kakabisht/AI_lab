@@ -15,3 +15,5 @@
    3. Random Forest
 5. Clustering:
    1. K Means
+6. Sagemaker Demo
+   1. MNIST based K means
